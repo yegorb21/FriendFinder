@@ -1,0 +1,30 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friend finder homework",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "10.16.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yegorb21/FriendFinder.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "yegor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yegorb21/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/yegorb21/FriendFinder#readme"
+}
